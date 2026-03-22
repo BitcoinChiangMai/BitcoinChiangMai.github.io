@@ -1,2 +1,3 @@
 # BitcoinChiangMai.github.io
-BitcoinChiangMai.org
+
+Forwards to [BitcoinChiangMai.org](https://BitcoinChiangMai.org)
